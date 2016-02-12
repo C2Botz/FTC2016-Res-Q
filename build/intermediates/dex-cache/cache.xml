@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81c82e1248666e3dba585aa2044cb6f367ec6066">
+        <dex dex="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/pre-dexed/debug/classes-d1cc047383d30a5e627e02513447e87ed362a76f.jar" />
+    </item>
+    <item
+        jar="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ebf8372b5bc9dc9f596ed438df36481099d51c41">
+        <dex dex="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/pre-dexed/debug/classes-14da69530507c4e10ae9984962eec1799006182c.jar" />
+    </item>
+    <item
+        jar="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e813cd0f3937ee1d0b272907ce672b7f4ad2ea2">
+        <dex dex="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/pre-dexed/debug/classes-3ae019e994ba4f23305ffddeb3bb17d10072d5ce.jar" />
+    </item>
+    <item
+        jar="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ad4adcdf8eb6ff2b3b4fe9f1d676f099db621d60">
+        <dex dex="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/pre-dexed/debug/classes-079ac7f08d9c4a2ee08058732bda0dbc7139bfa4.jar" />
+    </item>
+    <item
+        jar="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23c74caa2b901107adc4d0aec343c5b8e8be86fb">
+        <dex dex="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/pre-dexed/debug/classes-122a5c137e56ec46a600eb36779191a37d2d40b0.jar" />
+    </item>
+    <item
+        jar="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="141c9410c57da655ddebd85f577cc6b51811c525">
+        <dex dex="/Users/Fibonacci/Desktop/FTC-APP/FtcRobotController/build/intermediates/pre-dexed/debug/classes-24ca9bf5aa712f9fae7f2a229d3430ece1714dd5.jar" />
+    </item>
+
+</items>
